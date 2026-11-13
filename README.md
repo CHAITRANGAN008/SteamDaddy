@@ -39,5 +39,5 @@ All credit belongs to the original developers and contributors.
 Refer to the original repository's license before
 redistributing or modifying this project.
 
-## Original User Is Not Available On Github. 
-## I Think The Original User Is Taken Down...
+- Original User Is Not Available On Github. 
+- I Think The Original User Is Taken Down...
